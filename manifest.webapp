@@ -1,0 +1,22 @@
+{
+	"version":"1.0.0",
+	"name":"MoH ServiceDesk App",
+	"description":"MoH ServiceDesk App",
+	"launch_path":"index.html",
+	"icons":{"16":null,
+	"48":"res/support.png",
+	"128":null
+	},
+	"developer":{
+	"url":"",
+	"name":"Dennis Banga",
+	"email":"dbanga@healthit.uonbi.ac.ke"
+	},
+	"installs_allowed_from":null,
+	"default_locale":"en",
+	"activities": {
+		"dhis": {
+	  		"href": "*"
+		}
+	}
+}
